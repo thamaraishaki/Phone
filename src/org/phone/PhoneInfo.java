@@ -1,9 +1,12 @@
 package org.phone;
 
 public class PhoneInfo {
-	private void name() {
-		System.out.println("shaki");
+	private void phoneuser() {
+		System.out.println("moile user is: mi");
+
 	}
+private void name() {
+	System.out.println("shaki");}
 private void phoneName() {
 	System.out.println("moile name is: mi");
 }
